@@ -17,8 +17,6 @@ Este proyecto fue desarrollado como parte de mi formación práctica en tecnolog
 - ✅ Visualización dinámica de la lista de amigos.
 - ✅ Alerta en caso de nombres repetidos.
 - ✅ Sorteo aleatorio de un solo ganador.
-- ✅ Visualización del ganador mediante **modal personalizado**.
-- ✅ Interfaz responsiva para uso en escritorio y móvil.
 
 ---
 
