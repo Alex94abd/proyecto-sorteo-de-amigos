@@ -24,7 +24,14 @@ Este proyecto fue desarrollado como parte de mi formación práctica en tecnolog
 
 ## 🖼️ Vista previa
 
-![Captura del proyecto](assets/captura-proyecto.png)
+<img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/8f061d47-1620-43da-b8b5-49794694d067" />
+Ingreso de nombres únicos (con validación).
+<img width="1352" height="641" alt="image" src="https://github.com/user-attachments/assets/c82ffd61-fee2-4ec6-9f17-a6f57848a2e3" />
+Visualización dinámica de la lista de amigos.
+<img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/7738e71f-f0be-411a-a53c-04b35b3fbef1" />
+Alerta en caso de nombres repetidos.
+<img width="1352" height="645" alt="image" src="https://github.com/user-attachments/assets/15156d6d-061e-4bc2-8fe4-eb29b40f33b0" />
+Sorteo aleatorio de un solo ganador.
 
 ---
 
@@ -32,14 +39,6 @@ Este proyecto fue desarrollado como parte de mi formación práctica en tecnolog
 
 - HTML5
 - CSS3
-- JavaScript Vanilla
-- Google Fonts (Inter & Merriweather)
+- JavaScript
 
 ---
-
-## 🧪 Cómo probarlo localmente
-
-1. Clona este repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
